@@ -1,5 +1,5 @@
-let a = 10;
+let a = 1;
 let b = 3;
-let c = 50;
-let d = 100;
+let c = 5;
+let d = 7;
 
